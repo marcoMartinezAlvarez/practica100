@@ -1,0 +1,35 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Archivos de programa\Java\jdk1.7.0_45\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.7
+-classpath
+C:\Archivos de programa\BlueJ\lib\bluejcore.jar;C:\Archivos de programa\BlueJ\lib\junit-4.8.2.jar;H:\marco\clase dam 1\clase dam 1\programacion\programas\practica100
+-d
+H:\marco\clase dam 1\clase dam 1\programacion\programas\practica100\doc
+-encoding
+windows-1252
+-charset
+windows-1252
+-docletpath
+C:\Archivos de programa\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+H:\marco\clase dam 1\clase dam 1\programacion\programas\practica100\BallDemo.java
+<---- end of javadoc command ---->
+Loading source file H:\marco\clase dam 1\clase dam 1\programacion\programas\practica100\BallDemo.java...
+H:\marco\clase dam 1\clase dam 1\programacion\programas\practica100\BallDemo.java:44: error: not a statement
+            int 
+            ^
+H:\marco\clase dam 1\clase dam 1\programacion\programas\practica100\BallDemo.java:44: error: ';' expected
+            int 
+               ^
+2 errors
